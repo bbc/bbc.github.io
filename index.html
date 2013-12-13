@@ -1,0 +1,12 @@
+---
+layout: default
+title: BBC Future Media Blog
+---
+
+{% assign post = site.posts.first %}
+{% if post %}
+{% assign content = post.content %}
+{% include post.html %}
+{% else %}
+<p>Nothing to see here.</p>
+{% endif %}
