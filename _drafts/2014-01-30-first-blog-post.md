@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 632060c... fixing stupidness
 ---
 layout: default
 title: Blog Post
@@ -7,6 +10,7 @@ type: post
 category: iplayer
 author: Johnson Cheng
 ---
+<<<<<<< HEAD
 
 =======
 >>>>>>> d241606... First draft of the first post of the blog.
@@ -18,6 +22,8 @@ author: Johnson Cheng
  -category: iplayer
  -author: Johnson Cheng
  ----
+=======
+>>>>>>> 632060c... fixing stupidness
 
 >>>>>>> 25e249a... adding the metadata
 # Problem
