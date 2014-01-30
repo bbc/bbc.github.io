@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: Blog Post
@@ -6,6 +7,8 @@ category: iplayer
 author: Johnson Cheng
 ---
 
+=======
+>>>>>>> d241606... First draft of the first post of the blog.
 # Problem
 
 BBC Future Media is a big and distributed organisation. This is cool because we produce a lot of awesome stuff online, but it's complex because at any given time there are lots of teams working on different projects, and sometimes, it can be difficult to make sure that every team is building things in the most optimal, secure, scalable, and robust way. 
