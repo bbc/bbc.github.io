@@ -11,6 +11,7 @@ category: iplayer
 author: Johnson Cheng
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> d241606... First draft of the first post of the blog.
@@ -27,6 +28,10 @@ author: Johnson Cheng
 
 >>>>>>> 25e249a... adding the metadata
 # Problem
+=======
+
+## Problem
+>>>>>>> d73bbee... Updating h1s to h2s
 
 BBC Future Media is a big and distributed organisation. This is cool because we produce a lot of awesome stuff online, but it's complex because at any given time there are lots of teams working on different projects, and sometimes, it can be difficult to make sure that every team is building things in the most optimal, secure, scalable, and robust way. 
 
@@ -38,7 +43,7 @@ Unfortunately, these meetings have a few shortcomings:
 2. Since it's effectively a "gate" the teams must go through whenever they want to ship something, it's common for project managers to treat these forums as a tickbox exercise towards the end of a project, rather than **an ongoing forum to discuss technical designs**.
 3. The forum is ultimately bottlenecked by the few selected people that attend it. This can sometimes give the impression that technical architecture decisions are made in a vacuum by people who are not writing code daily, and therefore can have the risk of being removed from the **latest trends in best practices and patterns**.
 
-# Solution
+## Solution
 
 To summarise, we want something that can
 
@@ -67,7 +72,7 @@ We want the process to be as democratic as possible, but we also want the signal
 7. Once all comments are addressed and everyone's happy as clams, a moderator can then merge it and publish it.
 8. Fame and profit for you!!!
 
-# Validation
+## Validation
 
 I've tried hard to follow the format for this post, to bootstrap the process. This section is a bit tricky though, as I bviously don't know yet how well this solution will solve the problem I've outlined above. What I can do though is point to plenty of other organisations that have a prolific engineering blog, and correlate how good they are perceived in the tech world:
 - Github: https://github.com/blog/category/engineering
@@ -78,7 +83,7 @@ I've tried hard to follow the format for this post, to bootstrap the process. Th
 
 It seems pretty self-evident that awesome engineering companies have awesome engineering blogs.
 
-# Patterns
+## Patterns
 
 This blog post is a bit of an exception, in that, the problem stated here is not purely a technical one. Instead, these are organisational problems, and this is, more or less, an organisational solution. I think there are a few clear patterns that I can see that would apply to this class of problems:
 
