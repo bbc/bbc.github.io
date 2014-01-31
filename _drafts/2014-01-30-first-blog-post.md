@@ -58,7 +58,6 @@ We want the process to be as democratic as possible, but we also want the signal
 1. [Fork this github repo](https://help.github.com/articles/fork-a-repo): ``https://github.com/bbc/bbc.github.io``
 2. [Create a branch](https://github.com/blog/1377-create-and-delete-branches) to get your blogger hat on.
 3. Write a blog entry in Markdown. The bare minimum format requirement is that you must have the following sections:
-
   * __Problem__
     * State the problem you are solving
   * __Solution__
@@ -67,7 +66,6 @@ We want the process to be as democratic as possible, but we also want the signal
     * Prove your solution actually solves the stated problem, effectively. If your problem was a performance or scalability one, graphs and stats would be useful and essential. If your problem was a code quality issue, then static analysis of your code would be a good thing to capture. In certain cases, you may not have enough evidence to prove your case sufficiently yet, but you can point to examples outside of the BBC on how similar solutions have solved similar problems. 
   * __Patterns__  
     * What are the lessons learned? What generic and useful patterns have you learned from this solution that can be applied to other similar class of problems elsewhere?
-  
 4. Commit your awesome blog entry into this directory: ``https://github.com/<you>/BBC.github.io/tree/<branch>/_drafts``
 5. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request).
 6. A set of tech blog moderators ([yours truly](https://github.com/johnsoncheng), for example) will review it and comment on it. The comments can range from spelling and grammatical errors, to getting more details on a particular aspect of your solution. Don't think of this as censorship, but as quality check (similar to a code review). Moderatorship can be earned if  you contribute to the blog enough times.
