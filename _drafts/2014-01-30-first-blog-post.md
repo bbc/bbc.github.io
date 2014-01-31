@@ -35,7 +35,7 @@ author: Johnson Cheng
 
 BBC Future Media is a big and distributed organisation. This is cool because we produce a lot of awesome stuff online, but it's complex because at any given time there are lots of teams working on different projects, and sometimes, it can be difficult to make sure that every team is building things in the most optimal, secure, scalable, and robust way. 
 
-Historically this problem is solved by the various "Technical Approval Groups" (TAG) or "Design Authority" (DA) we have internally. These TAG or DA meetings generally consist of technical architects or engineering managers from different teams getting together to review different projects from different teams on a regular basis, by going through the technical architecture, technology choice, caching strategy, resilience models, etc. Often times these groups also maintain sets of "technical policies" which are used to measure how good the proposed projects are. Occassionally bad apples get through, but in general these meetings are quite effective in **making sure bad stuff doesn't get through to Production**. 
+Historically this problem is solved by the various "Technical Approval Group" (TAG) or "Design Authority" (DA) we have internally. These TAG or DA meetings generally consist of technical architects or engineering managers from different teams getting together to review different projects from different teams on a regular basis, by going through the technical architecture, technology choice, caching strategy, resilience models, etc. Often times these groups also maintain sets of "technical policies" which are used to measure how good the proposed projects are. Occassionally bad apples get through, but in general these meetings are quite effective in **making sure bad stuff doesn't get through to Production**. 
 
 Unfortunately, these meetings have a few shortcomings:
 
@@ -59,12 +59,14 @@ We want the process to be as democratic as possible, but we also want the signal
 2. [Create a branch](https://github.com/blog/1377-create-and-delete-branches) to get your blogger hat on.
 3. Write a blog entry in Markdown. The bare minimum format requirement is that you must have the following sections:
 
-  | section | contains      |
-  |---------|---------------|
-  | Problem | State the problem you are solving |
-  | Solution | State the solution you came up with |
-  | Validation | Prove your solution actually solves the stated problem, effectively. If your problem was a performance or scalability one, graphs and stats would be useful and essential. If your problem was a code quality issue, then static analysis of your code would be a good thing to capture. In certain cases, you may not have enough evidence to prove your case sufficiently yet, but you can point to examples outside of the BBC on how similar solutions have solved similar problems. |
-  | Patterns | What are the lessons learned? What generic and useful patterns have you learned from this solution that can be applied to other similar class of problems elsewhere? |
+  * __Problem__
+    * State the problem you are solving
+  * __Solution__
+    * State the solution you came up with
+  * __Validation__ 
+    * Prove your solution actually solves the stated problem, effectively. If your problem was a performance or scalability one, graphs and stats would be useful and essential. If your problem was a code quality issue, then static analysis of your code would be a good thing to capture. In certain cases, you may not have enough evidence to prove your case sufficiently yet, but you can point to examples outside of the BBC on how similar solutions have solved similar problems. 
+  * __Patterns__  
+    * What are the lessons learned? What generic and useful patterns have you learned from this solution that can be applied to other similar class of problems elsewhere?
   
 4. Commit your awesome blog entry into this directory: ``https://github.com/<you>/BBC.github.io/tree/<branch>/_drafts``
 5. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request).
@@ -75,11 +77,12 @@ We want the process to be as democratic as possible, but we also want the signal
 ## Validation
 
 I've tried hard to follow the format for this post, to bootstrap the process. This section is a bit tricky though, as I bviously don't know yet how well this solution will solve the problem I've outlined above. What I can do though is point to plenty of other organisations that have a prolific engineering blog, and correlate how good they are perceived in the tech world:
-- Github: https://github.com/blog/category/engineering
-- Etsy: http://codeascraft.com/
-- Twitter: https://blog.twitter.com/engineering
-- Facebook: https://code.facebook.com/posts/
-- Netflix: http://techblog.netflix.com/
+
+* Github: https://github.com/blog/category/engineering
+* Etsy: http://codeascraft.com/
+* Twitter: https://blog.twitter.com/engineering
+* Facebook: https://code.facebook.com/posts/
+* Netflix: http://techblog.netflix.com/
 
 It seems pretty self-evident that awesome engineering companies have awesome engineering blogs.
 
