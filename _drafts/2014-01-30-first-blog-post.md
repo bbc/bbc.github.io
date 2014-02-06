@@ -5,7 +5,7 @@
 >>>>>>> 632060c... fixing stupidness
 ---
 layout: default
-title: Blog Post
+title: The Future Media Engineering Blog
 type: post
 category: iplayer
 author: Johnson Cheng
