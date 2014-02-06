@@ -74,7 +74,7 @@ We want the process to be as democratic as possible, but we also want the signal
 
 ## Validation
 
-I've tried hard to follow the format for this post, to bootstrap the process. This section is a bit tricky though, as I bviously don't know yet how well this solution will solve the problem I've outlined above. What I can do though is point to plenty of other organisations that have a prolific engineering blog, and correlate how good they are perceived in the tech world:
+I've tried hard to follow the format for this post, to bootstrap the process. This section is a bit tricky though, as I obviously don't know yet how well this solution will solve the problem I've outlined above. What I can do though is point to plenty of other organisations that have a prolific engineering blog, and correlate how good they are perceived in the tech world:
 
 * Github: https://github.com/blog/category/engineering
 * Etsy: http://codeascraft.com/
