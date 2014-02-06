@@ -40,7 +40,7 @@ Historically this problem is solved by the various "Technical Approval Group" (T
 Unfortunately, these meetings have a few shortcomings:
 
 1. These meetings are a [negative reinforcement](http://en.wikipedia.org/wiki/Reinforcement#Reinforcement), and does very little to **encourage the engineering teams to make better designs** as time goes on;
-2. Since it's effectively a "gate" the teams must go through whenever they want to ship something, it's common for project managers to treat these forums as a tickbox exercise towards the end of a project, rather than **an ongoing forum to discuss technical designs**.
+2. Since it's effectively a "gate" the teams must go through whenever they want to ship something, it's common for the teams to treat these forums as a tickbox exercise towards the end of a project, rather than **an ongoing forum to discuss technical designs**.
 3. The forum is ultimately bottlenecked by the few selected people that attend it. This can sometimes give the impression that technical architecture decisions are made in a vacuum by people who are not writing code daily, and therefore can have the risk of being removed from the **latest trends in best practices and patterns**.
 
 ## Solution
