@@ -3,10 +3,15 @@ layout: default
 title: BBC Future Media Blog
 ---
 
-{% assign post = site.posts.first %}
-{% if post %}
-{% assign content = post.content %}
-{% include post.html %}
-{% else %}
-<p>Nothing to see here.</p>
-{% endif %}
+<ul id="post-list">
+  {% for post in site.posts limit: 5 %}
+    <li>
+        <a href="{{ post.url }}">
+            <p class="meta"><em>{{ post.date | date_to_long_string }}</em></p>
+            <h1>{{ post.title }}</h1>
+
+            <p>{{ post.summary }}</p>
+        </a>
+    </li>
+  {% endfor %}
+</ul>
