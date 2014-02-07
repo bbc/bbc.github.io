@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 632060c... fixing stupidness
 ---
 layout: default
 title: The Future Media Engineering Blog
@@ -10,28 +5,8 @@ type: post
 category: iplayer
 author: Johnson Cheng
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> d241606... First draft of the first post of the blog.
-=======
-----
- -layout: default
- -title: Blog Post
- -type: post
- -category: iplayer
- -author: Johnson Cheng
- ----
-=======
->>>>>>> 632060c... fixing stupidness
-
->>>>>>> 25e249a... adding the metadata
 # Problem
-=======
-
-## Problem
->>>>>>> d73bbee... Updating h1s to h2s
 
 BBC Future Media is a big and distributed organisation. This is cool because we produce a lot of awesome stuff online, but it's complex because at any given time there are lots of teams working on different projects, and sometimes, it can be difficult to make sure that every team is building things in the most optimal, secure, scalable, and robust way. 
 
